@@ -11,7 +11,7 @@ using VRC.DataModel;
 using UnityEngine;
 
 [assembly: MelonGame("VRChat")]
-[assembly: MelonInfo(typeof(LocalClone.Main), nameof(LocalClone), "0.1.0", " Astrum-Project & elian")]
+[assembly: MelonInfo(typeof(LocalClone.Main), nameof(LocalClone), "0.1.0", "Astrum-Project & elian")]
 [assembly: MelonColor(ConsoleColor.DarkYellow)]
 [assembly: MelonAdditionalDependencies("UIExpansionKit")]
 
